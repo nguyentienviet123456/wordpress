@@ -1,0 +1,1920 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Funiter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-25 03:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: framework/woocommerce/template-functions.php:1504
+msgid " already claimed"
+msgstr ""
+
+#: framework/includes/theme-functions.php:487
+#: framework/includes/theme-functions.php:493
+msgid " Read more"
+msgstr ""
+
+#: framework/includes/theme-functions.php:560
+msgid " Sticky"
+msgstr ""
+
+#: vc_templates/funiter_banner.php:86
+#: framework/includes/theme-functions.php:580
+#: framework/includes/theme-functions.php:619
+msgid "%"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: framework/includes/megamenu/nav_edit_custom_walker.php:88
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: framework/includes/megamenu/nav_edit_custom_walker.php:92
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:101
+msgid "(Unit px)"
+msgstr ""
+
+#: framework/includes/theme-functions.php:484
+#: framework/includes/theme-functions.php:490
+#: templates/blog/blog-style/content-blog-style-01.php:20
+msgid "..."
+msgstr ""
+
+#: framework/includes/theme-functions.php:578
+#: framework/includes/theme-functions.php:617
+msgid "0"
+msgstr ""
+
+#: framework/includes/theme-functions.php:579
+#: framework/includes/theme-functions.php:618
+msgid "1"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1583
+msgid "1 Star"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1584
+msgid "2 Stars"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1585
+msgid "3 Stars"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1586
+msgid "4 Stars"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:208
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1587
+msgid "5 Stars"
+msgstr ""
+
+#: framework/includes/theme-functions.php:1181
+msgid "A"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1513
+msgid "Active Section"
+msgstr ""
+
+#: framework/includes/megamenu/walker.php:299
+msgid "Add a menu"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1057
+msgid "Add name member."
+msgstr ""
+
+#: framework/includes/visual-composer.php:994
+msgid "Address"
+msgstr ""
+
+#: framework/includes/visual-composer.php:997
+msgid "address."
+msgstr ""
+
+#: framework/includes/visual-composer.php:371
+msgid "All"
+msgstr ""
+
+#: framework/includes/theme-functions.php:330
+msgid "All author posts"
+msgstr ""
+
+#: framework/includes/theme-functions.php:758
+#: framework/includes/theme-functions.php:835
+msgid "All Categories"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:129
+msgid "Anti-spam"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:209
+msgid "Archives"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1318
+msgid "ASC"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1289
+msgid "Author"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1481
+msgid "Availability:"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1508
+msgid "Available: "
+msgstr ""
+
+#: framework/includes/visual-composer.php:1049
+msgid "Avatar Member"
+msgstr ""
+
+#: 404.php:40
+msgid "Back to hompage"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:155
+msgid "Back to login"
+msgstr ""
+
+#: framework/includes/visual-composer.php:101
+#: framework/includes/visual-composer.php:214
+msgid "Banner Image"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1269
+msgid "Best Selling Products"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:947
+msgid "Bestseller Products"
+msgstr ""
+
+#: framework/includes/visual-composer.php:113
+#: framework/includes/visual-composer.php:230
+msgid "Big Title"
+msgstr ""
+
+#: index.php:75
+msgid "Blog"
+msgstr ""
+
+#: framework/includes/visual-composer.php:298
+msgid "Blog List style"
+msgstr ""
+
+#: functions.php:149
+msgid "Blog widget."
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:409
+msgid "Brand: "
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:206
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: functions.php:389
+msgid "Browse Wishlist"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:205
+msgid "Browse:"
+msgstr ""
+
+#: framework/includes/visual-composer.php:119
+#: framework/includes/visual-composer.php:266
+msgid "Button"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1114
+msgid "Button text"
+msgstr ""
+
+#: framework/includes/theme-functions.php:608
+msgid "By "
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:270
+msgid "Cancel"
+msgstr ""
+
+#: framework/includes/theme-functions.php:834
+msgid "CATEGORIES"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:271
+msgid "Categories:"
+msgstr ""
+
+#: framework/includes/theme-functions.php:702
+msgid "Categories: "
+msgstr ""
+
+#: framework/includes/visual-composer.php:387
+msgid "Category List style"
+msgstr ""
+
+#: framework/includes/visual-composer.php:423
+#: framework/includes/visual-composer.php:479
+#: framework/includes/visual-composer.php:1249
+msgid "Choose category"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1278
+msgid "Choose the target to filter products"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:372
+msgid "Clear"
+msgstr ""
+
+#: functions.php:397
+msgid "Clear All "
+msgstr ""
+
+#: framework/includes/theme-functions.php:836
+msgid "Close"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1293
+msgid "Comment count"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/includes/visual-composer.php:696
+#: framework/includes/visual-composer.php:1598
+msgid "Content"
+msgstr ""
+
+#. %s: Name of current post
+#: framework/includes/theme-functions.php:499
+#: framework/includes/theme-functions.php:517
+#: framework/includes/theme-functions.php:540
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Create an account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37
+msgid ""
+"Create an account to expedite future checkouts, track order history & "
+"receive emails, discounts, & special offers"
+msgstr ""
+
+#: framework/includes/visual-composer.php:320
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: framework/includes/visual-composer.php:75
+msgid "Creates 2 different text versions on mobile and desktop"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:876
+msgid "Cross Sell Products"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:209
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:645
+#: framework/includes/breadcrumbs.php:982
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: framework/includes/visual-composer.php:616
+#: framework/includes/visual-composer.php:1569
+msgid "Dark"
+msgstr ""
+
+#: framework/includes/visual-composer.php:530
+#: framework/includes/visual-composer.php:1287
+msgid "Date"
+msgstr ""
+
+#: functions.php:427
+msgid "Days"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1459
+msgid "Deal ends in :"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:774
+msgid "Default sorting"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1319
+msgid "DESC"
+msgstr ""
+
+#: framework/includes/visual-composer.php:236
+#: framework/includes/megamenu/nav_edit_custom_walker.php:227
+msgid "Description"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1103
+msgid "Descriptions"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1322
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: framework/includes/visual-composer.php:1235
+msgid "Disable"
+msgstr ""
+
+#: framework/includes/visual-composer.php:271
+msgid "Disable Lazy Load On Mobile"
+msgstr ""
+
+#: framework/includes/visual-composer.php:97
+msgid "Display banner image as a background"
+msgstr ""
+
+#: framework/includes/visual-composer.php:343
+msgid "Display Button"
+msgstr ""
+
+#: framework/includes/visual-composer.php:433
+msgid "Display Category Product Wrap"
+msgstr ""
+
+#: framework/includes/visual-composer.php:489
+msgid "Display Countdown"
+msgstr ""
+
+#: framework/includes/visual-composer.php:144
+msgid "Display Custom Banner"
+msgstr ""
+
+#: framework/includes/visual-composer.php:383
+msgid "Display Custom Category Product"
+msgstr ""
+
+#: framework/includes/visual-composer.php:592
+msgid "Display Custom Heading"
+msgstr ""
+
+#: framework/includes/visual-composer.php:554
+msgid "Display Custom Menu"
+msgstr ""
+
+#: framework/includes/visual-composer.php:950
+msgid "Display Google Map"
+msgstr ""
+
+#: framework/includes/visual-composer.php:653
+msgid "Display Icon Box"
+msgstr ""
+
+#: framework/includes/visual-composer.php:847
+msgid "Display Instagram"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1032
+msgid "Display member info"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1076
+msgid "Display Newsletter"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1141
+msgid "Display Pin Map"
+msgstr ""
+
+#: framework/includes/visual-composer.php:288
+msgid "Display Post, Custom Post Type"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1158
+msgid "Display Products"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1378
+msgid "Display Slide"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1416
+msgid "Display Socials"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1451
+msgid "Display Tabs"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1545
+msgid "Display Testimonial"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1632
+msgid "Display Wrap Element"
+msgstr ""
+
+#: templates-part/popup-content.php:54
+msgid "Don&rsquo;t show this popup again!"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:240
+msgid "Down one"
+msgstr ""
+
+#: framework/includes/theme-functions.php:449
+msgid "Edit"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:163
+#: framework/includes/megamenu/nav_edit_custom_walker.php:165
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/includes/visual-composer.php:969
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:109
+msgid "Email address"
+msgstr ""
+
+#: comments.php:20
+msgid "Email*"
+msgstr ""
+
+#: framework/includes/visual-composer.php:971
+msgid "email."
+msgstr ""
+
+#: framework/includes/visual-composer.php:1234
+msgid "Enable"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1231
+msgid "Enable Load More"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1367
+msgid "Enter List of Products"
+msgstr ""
+
+#: comments.php:22
+msgid "Enter your comments here..."
+msgstr ""
+
+#: framework/includes/visual-composer.php:1110
+msgid "Enter your email address"
+msgstr ""
+
+#: framework/includes/visual-composer.php:706
+msgid "Entypo"
+msgstr ""
+
+#: 404.php:27
+msgid "Error 404"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1696
+msgid "Facebook"
+msgstr ""
+
+#. Author of the theme
+msgid "Famithemes"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1274
+#: framework/woocommerce/template-functions.php:304
+msgid "Featured Products"
+msgstr ""
+
+#: framework/includes/visual-composer.php:703
+#: framework/includes/megamenu/megamenu.php:149
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:30
+msgid "Font icon"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the theme
+msgid "Funiter"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:128
+msgid "funiter"
+msgstr ""
+
+#: framework/includes/visual-composer.php:710
+msgid "Funiter Fonts"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Funiter Shop is a simple but modern responsive WordPress theme that oozes "
+"high-street sophistication. Its sharp lines and flat design style has been "
+"designed to be pixel perfect. Simply load your photography and you can have "
+"an online shop to matches the likes of Prada, Gucci and Yves St Laurent."
+msgstr ""
+
+#: framework/includes/visual-composer.php:74
+#: framework/includes/visual-composer.php:96
+#: framework/includes/visual-composer.php:143
+#: framework/includes/visual-composer.php:287
+#: framework/includes/visual-composer.php:342
+#: framework/includes/visual-composer.php:382
+#: framework/includes/visual-composer.php:432
+#: framework/includes/visual-composer.php:488
+#: framework/includes/visual-composer.php:553
+#: framework/includes/visual-composer.php:591
+#: framework/includes/visual-composer.php:652
+#: framework/includes/visual-composer.php:846
+#: framework/includes/visual-composer.php:949
+#: framework/includes/visual-composer.php:1031
+#: framework/includes/visual-composer.php:1075
+#: framework/includes/visual-composer.php:1140
+#: framework/includes/visual-composer.php:1157
+#: framework/includes/visual-composer.php:1377
+#: framework/includes/visual-composer.php:1415
+#: framework/includes/visual-composer.php:1450
+#: framework/includes/visual-composer.php:1544
+#: framework/includes/visual-composer.php:1631
+msgid "Funiter Shortcode"
+msgstr ""
+
+#: framework/includes/visual-composer.php:72
+msgid "Funiter: Advance Text"
+msgstr ""
+
+#: framework/includes/visual-composer.php:141
+msgid "Funiter: Banner"
+msgstr ""
+
+#: framework/includes/visual-composer.php:94
+msgid "Funiter: Banner 2"
+msgstr ""
+
+#: framework/includes/visual-composer.php:286
+msgid "Funiter: Blog"
+msgstr ""
+
+#: framework/includes/visual-composer.php:340
+msgid "Funiter: Button"
+msgstr ""
+
+#: framework/includes/visual-composer.php:380
+msgid "Funiter: Category"
+msgstr ""
+
+#: framework/includes/visual-composer.php:431
+msgid "Funiter: Category Product Wrap"
+msgstr ""
+
+#: framework/includes/visual-composer.php:486
+msgid "Funiter: Countdown"
+msgstr ""
+
+#: framework/includes/visual-composer.php:589
+msgid "Funiter: Custom Heading"
+msgstr ""
+
+#: framework/includes/visual-composer.php:551
+msgid "Funiter: Custom Menu"
+msgstr ""
+
+#: framework/includes/visual-composer.php:948
+msgid "Funiter: Google Map"
+msgstr ""
+
+#: framework/includes/visual-composer.php:651
+msgid "Funiter: Icon Box"
+msgstr ""
+
+#: framework/includes/visual-composer.php:844
+msgid "Funiter: Instagram"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1030
+msgid "Funiter: Member"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1074
+msgid "Funiter: Newsletter"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1138
+msgid "Funiter: Pin Map"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1156
+msgid "Funiter: Products"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1376
+msgid "Funiter: Slide"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1414
+msgid "Funiter: Socials"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1449
+msgid "Funiter: Tabs"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1542
+msgid "Funiter: Testimonial"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1630
+msgid "Funiter: Wrap Element"
+msgstr ""
+
+#: content-none.php:4
+msgid "Get started here"
+msgstr ""
+
+#: framework/includes/visual-composer.php:925
+msgid "Get Token Instagram Here!"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1703
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:44
+msgid "Gradient Menu"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:701
+msgid "Grid"
+msgstr ""
+
+#: framework/includes/visual-composer.php:301
+#: framework/includes/visual-composer.php:390
+#: framework/includes/visual-composer.php:887
+#: framework/includes/visual-composer.php:1190
+msgid "Grid Bootstrap"
+msgstr ""
+
+#: functions.php:383
+msgid "Has been added to cart!"
+msgstr ""
+
+#: framework/includes/visual-composer.php:131
+#: framework/includes/visual-composer.php:1222
+msgid "Height"
+msgstr ""
+
+#: framework/includes/visual-composer.php:133
+msgid "Height in pixel (px)"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:207
+msgid "Home"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:628
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: functions.php:428
+msgid "Hours"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:111
+msgid "http://"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://famithemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://funiter.famithemes.com/"
+msgstr ""
+
+#: functions.php:118
+msgid "Huge"
+msgstr ""
+
+#: framework/includes/visual-composer.php:987
+msgid "HYBRID"
+msgstr ""
+
+#: framework/includes/visual-composer.php:718
+#: framework/includes/visual-composer.php:732
+#: framework/includes/visual-composer.php:747
+#: framework/includes/visual-composer.php:763
+#: framework/includes/visual-composer.php:779
+#: framework/includes/visual-composer.php:794
+#: framework/includes/visual-composer.php:810
+#: framework/includes/visual-composer.php:826
+msgid "Icon"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:92
+msgid "Icon Image "
+msgstr ""
+
+#: framework/includes/visual-composer.php:701
+msgid "Icon library"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:21
+msgid "Icon Settings"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1288
+msgid "ID"
+msgstr ""
+
+#: framework/includes/visual-composer.php:909
+msgid "ID Instagram"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1603
+#: framework/includes/megamenu/nav_menu_custom_fields.php:34
+msgid "Image"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:88
+#: framework/includes/megamenu/nav_menu_custom_fields.php:89
+msgid "Image preview"
+msgstr ""
+
+#: framework/includes/visual-composer.php:894
+msgid "Image Resolution"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1207
+msgid "Image size"
+msgstr ""
+
+#: framework/includes/visual-composer.php:884
+msgid "Instagram style"
+msgstr ""
+
+#: content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/includes/visual-composer.php:934
+msgid "Items Instagram"
+msgstr ""
+
+#: functions.php:113
+msgid "L"
+msgstr ""
+
+#: framework/includes/visual-composer.php:205
+msgid "Label text"
+msgstr ""
+
+#: functions.php:112
+msgid "Large"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1010
+msgid "Latitude"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1013
+msgid "latitude."
+msgstr ""
+
+#: comments.php:29
+msgid "Leave a comment"
+msgstr ""
+
+#: framework/includes/visual-composer.php:617
+#: framework/includes/visual-composer.php:1570
+msgid "Light"
+msgstr ""
+
+#: framework/includes/visual-composer.php:707
+msgid "Linecons"
+msgstr ""
+
+#: framework/includes/visual-composer.php:364
+#: framework/includes/visual-composer.php:535
+#: framework/includes/visual-composer.php:875
+#: framework/includes/visual-composer.php:1622
+msgid "Link"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:218
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:718
+msgid "List"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1440
+msgid "List Social"
+msgstr ""
+
+#: vc_templates/funiter_products.php:129
+msgid "Load more"
+msgstr ""
+
+#: templates/header-mobile-single-product.php:104
+#: templates/header-mobile.php:113 woocommerce/myaccount/form-login.php:74
+msgid "Login"
+msgstr ""
+
+#: framework/includes/theme-functions.php:1056
+msgid "Logout"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1002
+msgid "Longitude"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1005
+msgid "longitude."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "Lost your password?"
+msgstr ""
+
+#: framework/includes/visual-composer.php:898
+msgid "Low Resolution"
+msgstr ""
+
+#: functions.php:107
+msgid "M"
+msgstr ""
+
+#: framework/includes/visual-composer.php:976
+msgid "Map Height"
+msgstr ""
+
+#: framework/includes/visual-composer.php:982
+msgid "Maps type"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1399
+msgid "Margin Responsive"
+msgstr ""
+
+#: framework/includes/visual-composer.php:709
+msgid "Material"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:98
+msgid "Mega menu settings"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1066
+msgid "Member Descriptions"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1055
+msgid "Member Name"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1061
+msgid "Member Postion"
+msgstr ""
+
+#: templates/header-mobile-single-product.php:43
+#: templates/header-mobile-single-product.php:94 templates/header-mobile.php:51
+#: templates/header-mobile.php:103 framework/includes/visual-composer.php:578
+msgid "Menu"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1294
+msgid "Menu order"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:100
+msgid "Menu width"
+msgstr ""
+
+#: functions.php:429
+msgid "Mins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: framework/includes/breadcrumbs.php:215
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:596
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:612
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: framework/includes/visual-composer.php:85
+msgid "Mobile Text"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1291
+msgid "Modified"
+msgstr ""
+
+#: framework/includes/visual-composer.php:708
+msgid "Mono Social"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:644
+#: framework/includes/breadcrumbs.php:692
+#: framework/includes/breadcrumbs.php:979
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: framework/includes/theme-functions.php:802
+msgid "Most searched:"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:238
+msgid "Move"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:160
+msgid "Move down"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:147
+msgid "Move up"
+msgstr ""
+
+#: templates/header-mobile-single-product.php:102
+#: templates/header-mobile.php:111
+msgid "My Account"
+msgstr ""
+
+#: templates/header-mobile-single-product.php:63 templates/header-mobile.php:71
+msgid "My Wishlist"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:440
+msgid "N/A"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1608
+#: framework/includes/visual-composer.php:1610
+msgid "Name"
+msgstr ""
+
+#: comments.php:19
+msgid "Name*"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:183
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1383
+msgid "New"
+msgstr ""
+
+#: templates-part/popup-content.php:34
+msgid "Newsletter"
+msgstr ""
+
+#: comments.php:55 framework/includes/theme-functions.php:311
+#: framework/woocommerce/template-functions.php:861
+msgid "Next"
+msgstr ""
+
+#: framework/includes/visual-composer.php:275
+#: framework/includes/visual-composer.php:1180
+#: framework/includes/visual-composer.php:1395
+#: framework/includes/visual-composer.php:1493
+#: framework/includes/visual-composer.php:1503
+msgid "No"
+msgstr ""
+
+#: vc_templates/funiter_custommenu.php:31
+msgid "No content."
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:217
+msgid "No Font"
+msgstr ""
+
+#: vc_templates/funiter_products.php:114
+msgid "No Product"
+msgstr ""
+
+#: vc_templates/funiter_instagram.php:72
+msgid "No user ID specified."
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:25
+msgid "None"
+msgstr ""
+
+#: functions.php:106
+msgid "Normal"
+msgstr ""
+
+#: framework/includes/visual-composer.php:424
+#: framework/includes/visual-composer.php:1250
+msgid ""
+"Note: If you want to narrow output, select category(s) above. Only selected "
+"categories will be displayed."
+msgstr ""
+
+#: framework/includes/visual-composer.php:480
+msgid "Note: selected first category will be hightlight."
+msgstr ""
+
+#: content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:390
+msgid "Notice!"
+msgstr ""
+
+#: vc_templates/funiter_banner.php:87
+msgid "off"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1276
+msgid "On New"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1275
+msgid "On Sale"
+msgstr ""
+
+#: framework/includes/visual-composer.php:704
+msgid "Open Iconic"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:204
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: 404.php:34
+msgid "Opps! This page Could Not Be Found!"
+msgstr ""
+
+#: framework/includes/visual-composer.php:309
+msgid "Option Query"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:78
+#: woocommerce/myaccount/form-login.php:154
+msgid "Or"
+msgstr ""
+
+#: 404.php:38
+msgid "or"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1315
+msgid "Order"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1284
+msgid "Order by"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:249
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: functions.php:398
+msgid "OUT OF PRODUCT"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:255
+msgid "Out Of Stock"
+msgstr ""
+
+#: framework/includes/visual-composer.php:302
+#: framework/includes/visual-composer.php:391
+#: framework/includes/visual-composer.php:888
+#: framework/includes/visual-composer.php:1191
+msgid "Owl Carousel"
+msgstr ""
+
+#. %s is the page number.
+#: framework/includes/breadcrumbs.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: page.php:84 framework/includes/theme-functions.php:504
+#: framework/includes/theme-functions.php:522
+#: framework/includes/theme-functions.php:545
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:120
+msgid "Password"
+msgstr ""
+
+#: framework/includes/visual-composer.php:258
+msgid "Percent(%)"
+msgstr ""
+
+#: framework/includes/visual-composer.php:962
+msgid "Phone"
+msgstr ""
+
+#: framework/includes/visual-composer.php:964
+msgid "phone."
+msgstr ""
+
+#: framework/includes/visual-composer.php:1145
+msgid "Pinmaper style"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1710
+msgid "Pinterest"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search here&hellip;"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1108
+msgid "Placeholder text"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1615
+#: framework/includes/visual-composer.php:1617
+msgid "Position"
+msgstr ""
+
+#: comments.php:28
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:54 framework/includes/theme-functions.php:310
+msgid "Prev"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:860
+msgid "Previous"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1168
+msgid "Product Attribute"
+msgstr ""
+
+#: framework/includes/visual-composer.php:416
+#: framework/includes/visual-composer.php:472
+#: framework/includes/visual-composer.php:1242
+#: framework/includes/visual-composer.php:1272
+msgid "Product Category"
+msgstr ""
+
+#: functions.php:385
+msgid "Product has been added to cart!"
+msgstr ""
+
+#: functions.php:387
+msgid "Product has been added to wishlist!"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1187
+msgid "Product List style"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1339
+msgid "Product per page"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: functions.php:391
+msgid "Product Removed"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1176
+msgid "Product Star Rating"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1198
+msgid "Product style"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1273
+#: framework/includes/visual-composer.php:1359
+msgid "Products"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1238
+#: framework/includes/visual-composer.php:1251
+#: framework/includes/visual-composer.php:1280
+#: framework/includes/visual-composer.php:1311
+#: framework/includes/visual-composer.php:1335
+#: framework/includes/visual-composer.php:1355
+#: framework/includes/visual-composer.php:1369
+msgid "Products options"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1217
+#: framework/includes/visual-composer.php:1225
+msgid "px"
+msgstr ""
+
+#: framework/includes/theme-functions.php:1177
+msgid "Q"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgid "Quantiy:"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1292
+msgid "Random"
+msgstr ""
+
+#: templates/blog/blog-style/content-blog-style-01.php:22
+msgid "Read more"
+msgstr ""
+
+#: content-none.php:4
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1271
+msgid "Recent Products"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1150
+#: framework/woocommerce/template-functions.php:1246
+msgid "Recently Viewed"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:87
+#: woocommerce/myaccount/form-login.php:147
+msgid "Register"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:878
+msgid "Related Products"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:786
+msgid "Relevance"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:68
+msgid "Remember me"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:263
+msgid "Remove"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:628
+msgid "review"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:630
+msgid "reviews"
+msgstr ""
+
+#: framework/includes/visual-composer.php:985
+msgid "ROADMAP"
+msgstr ""
+
+#: functions.php:101
+msgid "S"
+msgstr ""
+
+#: framework/includes/visual-composer.php:256
+msgid "Sale off"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1295
+msgid "Sale price"
+msgstr ""
+
+#: framework/includes/visual-composer.php:986
+msgid "SATELLITE"
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:201
+msgid "Search a Icon..."
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:199
+msgid "Search Icon: "
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: framework/includes/breadcrumbs.php:211
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: index.php:82
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: framework/includes/theme-functions.php:784
+msgid "Searching for ..."
+msgstr ""
+
+#: functions.php:430
+msgid "Secs"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1171
+msgid "Select a Attribute for product"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1210
+msgid "Select a size for product"
+msgstr ""
+
+#: framework/includes/visual-composer.php:304
+#: framework/includes/visual-composer.php:334
+#: framework/includes/visual-composer.php:393
+#: framework/includes/visual-composer.php:412
+#: framework/includes/visual-composer.php:458
+#: framework/includes/visual-composer.php:507
+#: framework/includes/visual-composer.php:1149
+#: framework/includes/visual-composer.php:1193
+#: framework/includes/visual-composer.php:1203
+#: framework/includes/visual-composer.php:1430
+msgid "Select a style"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1298
+msgid "Select how to sort."
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:49
+msgid "Select Icon"
+msgstr ""
+
+#: framework/includes/visual-composer.php:719
+#: framework/includes/visual-composer.php:743
+#: framework/includes/visual-composer.php:759
+#: framework/includes/visual-composer.php:775
+#: framework/includes/visual-composer.php:806
+#: framework/includes/visual-composer.php:822
+#: framework/includes/visual-composer.php:838
+msgid "Select icon from library."
+msgstr ""
+
+#: framework/includes/visual-composer.php:714
+msgid "Select icon library."
+msgstr ""
+
+#: framework/includes/visual-composer.php:582
+msgid "Select menu to display."
+msgstr ""
+
+#: framework/includes/visual-composer.php:148
+#: framework/includes/visual-composer.php:324
+#: framework/includes/visual-composer.php:347
+#: framework/includes/visual-composer.php:398
+#: framework/includes/visual-composer.php:444
+#: framework/includes/visual-composer.php:493
+#: framework/includes/visual-composer.php:558
+#: framework/includes/visual-composer.php:596
+#: framework/includes/visual-composer.php:657
+#: framework/includes/visual-composer.php:851
+#: framework/includes/visual-composer.php:1036
+#: framework/includes/visual-composer.php:1080
+#: framework/includes/visual-composer.php:1420
+#: framework/includes/visual-composer.php:1460
+#: framework/includes/visual-composer.php:1549
+msgid "Select style"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1681
+msgid "Share"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1684
+msgid "Share This"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:950
+msgid "Shop more"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:821
+msgid "Show"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:824
+msgid "Show 05"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:827
+msgid "Show 10"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:830
+msgid "Show 12"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:833
+msgid "Show 15"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:836
+msgid "Show All"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1182
+msgid "Show Rating"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:437
+msgid "SKU:"
+msgstr ""
+
+#: functions.php:100
+msgid "Small"
+msgstr ""
+
+#: 404.php:35
+msgid ""
+"Sorry bit the page you are looking for does not exist, have been removed or "
+"name changed"
+msgstr ""
+
+#: content-none.php:6
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:776
+msgid "Sort by average rating"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:777
+msgid "Sort by newness"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:775
+msgid "Sort by popularity"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:779
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:778
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: framework/includes/visual-composer.php:899
+msgid "Standard Resolution"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1580
+msgid "Star Rating"
+msgstr ""
+
+#: framework/includes/visual-composer.php:238
+msgid "Strong or em tag to hightlight text."
+msgstr ""
+
+#: framework/includes/visual-composer.php:151
+#: framework/includes/visual-composer.php:327
+#: framework/includes/visual-composer.php:350
+#: framework/includes/visual-composer.php:401
+#: framework/includes/visual-composer.php:447
+#: framework/includes/visual-composer.php:496
+#: framework/includes/visual-composer.php:561
+#: framework/includes/visual-composer.php:599
+#: framework/includes/visual-composer.php:660
+#: framework/includes/visual-composer.php:1039
+#: framework/includes/visual-composer.php:1083
+#: framework/includes/visual-composer.php:1423
+#: framework/includes/visual-composer.php:1463
+#: framework/includes/visual-composer.php:1552
+msgid "Style 01"
+msgstr ""
+
+#: framework/includes/visual-composer.php:854
+msgid "style 01"
+msgstr ""
+
+#: framework/includes/visual-composer.php:155
+#: framework/includes/visual-composer.php:354
+#: framework/includes/visual-composer.php:405
+#: framework/includes/visual-composer.php:451
+#: framework/includes/visual-composer.php:500
+#: framework/includes/visual-composer.php:603
+#: framework/includes/visual-composer.php:664
+#: framework/includes/visual-composer.php:858
+#: framework/includes/visual-composer.php:1087
+#: framework/includes/visual-composer.php:1467
+#: framework/includes/visual-composer.php:1556
+msgid "Style 02"
+msgstr ""
+
+#: framework/includes/visual-composer.php:159
+#: framework/includes/visual-composer.php:668
+#: framework/includes/visual-composer.php:1471
+msgid "Style 03"
+msgstr ""
+
+#: framework/includes/visual-composer.php:163
+#: framework/includes/visual-composer.php:672
+msgid "Style 04"
+msgstr ""
+
+#: framework/includes/visual-composer.php:167
+#: framework/includes/visual-composer.php:676
+msgid "Style 05"
+msgstr ""
+
+#: framework/includes/visual-composer.php:171
+msgid "Style 06"
+msgstr ""
+
+#: framework/includes/visual-composer.php:175
+msgid "Style 07"
+msgstr ""
+
+#: framework/includes/visual-composer.php:179
+msgid "Style 08"
+msgstr ""
+
+#: framework/includes/visual-composer.php:183
+msgid "Style 09"
+msgstr ""
+
+#: framework/includes/visual-composer.php:187
+msgid "Style 10"
+msgstr ""
+
+#: framework/includes/visual-composer.php:191
+msgid "Style 11"
+msgstr ""
+
+#: framework/includes/visual-composer.php:195
+msgid "Style 12"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:131
+msgid "sub item"
+msgstr ""
+
+#: framework/includes/visual-composer.php:518
+msgid "Subittle text"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1115
+msgid "Subscribe"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1533
+#: framework/includes/visual-composer.php:1534
+msgid "Tab"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:453
+msgid "Tags:"
+msgstr ""
+
+#: framework/includes/theme-functions.php:671
+#: framework/includes/theme-functions.php:685
+msgid "Tags: "
+msgstr ""
+
+#: framework/includes/visual-composer.php:1266
+msgid "Target"
+msgstr ""
+
+#. Name of the template
+msgid "Template Box"
+msgstr ""
+
+#: framework/includes/visual-composer.php:988
+msgid "TERRAIN"
+msgstr ""
+
+#: framework/includes/visual-composer.php:79
+msgid "Text"
+msgstr ""
+
+#: framework/includes/visual-composer.php:633
+msgid "Text align"
+msgstr ""
+
+#: framework/includes/visual-composer.php:524
+msgid "Text before date"
+msgstr ""
+
+#: framework/includes/visual-composer.php:637
+msgid "Text Center"
+msgstr ""
+
+#: framework/includes/visual-composer.php:636
+msgid "Text Left"
+msgstr ""
+
+#: framework/includes/visual-composer.php:526
+msgid "The before date of shortcode"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:232
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/includes/visual-composer.php:537
+msgid "The Link"
+msgstr ""
+
+#: framework/includes/visual-composer.php:936
+msgid "the number items show"
+msgstr ""
+
+#: framework/includes/visual-composer.php:520
+msgid "The subtitle of shortcode"
+msgstr ""
+
+#: framework/includes/visual-composer.php:513
+#: framework/includes/visual-composer.php:870
+#: framework/includes/visual-composer.php:1483
+msgid "The title of shortcode"
+msgstr ""
+
+#: functions.php:171
+msgid ""
+"This is the default widget displayed on the product page. It can be replaced "
+"with another widget by adjusting the theme options."
+msgstr ""
+
+#: functions.php:161
+msgid ""
+"This is the default widget displayed on the shop page. It can be replaced "
+"with another widget by adjusting the theme options."
+msgstr ""
+
+#: functions.php:181
+msgid ""
+"This widget is displayed in the summary section of the product details page."
+msgstr ""
+
+#: framework/includes/visual-composer.php:897
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/includes/visual-composer.php:107
+#: framework/includes/visual-composer.php:220
+#: framework/includes/visual-composer.php:292
+#: framework/includes/visual-composer.php:462
+#: framework/includes/visual-composer.php:511
+#: framework/includes/visual-composer.php:571
+#: framework/includes/visual-composer.php:627
+#: framework/includes/visual-composer.php:686
+#: framework/includes/visual-composer.php:868
+#: framework/includes/visual-composer.php:954
+#: framework/includes/visual-composer.php:1097
+#: framework/includes/visual-composer.php:1162
+#: framework/includes/visual-composer.php:1290
+#: framework/includes/visual-composer.php:1388
+#: framework/includes/visual-composer.php:1434
+#: framework/includes/visual-composer.php:1481
+#: framework/includes/visual-composer.php:1593
+#: framework/includes/visual-composer.php:1643
+msgid "Title"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:192
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/includes/visual-composer.php:957
+msgid "title."
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:243
+msgid "To the top"
+msgstr ""
+
+#: framework/includes/visual-composer.php:919
+msgid "Token Instagram"
+msgstr ""
+
+#: functions.php:46
+msgid "Top Left Menu"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1270
+#: framework/woocommerce/template-functions.php:307
+msgid "Top Rated Products"
+msgstr ""
+
+#: functions.php:47
+msgid "Top Right Menu"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:310
+msgid "Top Selling Products"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1689
+msgid "Twitter"
+msgstr ""
+
+#: framework/includes/visual-composer.php:613
+#: framework/includes/visual-composer.php:1566
+msgid "Type Color"
+msgstr ""
+
+#: framework/includes/visual-composer.php:705
+msgid "Typicons"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1514
+msgid "Unlimit"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:239
+msgid "Up one"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:880
+msgid "Upsell Products"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:173
+msgid "URL"
+msgstr ""
+
+#: vc_templates/funiter_instagram.php:81
+msgid "User ID and access token do not match. Please check again."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:98
+msgid "Username"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1489
+msgid "Using Ajax Tabs"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1499
+msgid "Using Loop"
+msgstr ""
+
+#: functions.php:45
+msgid "Vertical Menu"
+msgstr ""
+
+#: functions.php:384
+msgid "View Cart"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: framework/includes/breadcrumbs.php:217
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:669
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: framework/includes/visual-composer.php:573
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: functions.php:147
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:169
+msgid "Widget Product"
+msgstr ""
+
+#: functions.php:159
+msgid "Widget Shop"
+msgstr ""
+
+#: functions.php:179
+msgid "Widget Summary Product"
+msgstr ""
+
+#: framework/includes/visual-composer.php:124
+#: framework/includes/visual-composer.php:1214
+msgid "Width"
+msgstr ""
+
+#: framework/includes/visual-composer.php:126
+msgid "Width in pixel (px)"
+msgstr ""
+
+#: templates-part/popup-content.php:22
+msgid "X"
+msgstr ""
+
+#: functions.php:119
+msgid "XL"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:643
+#: framework/includes/breadcrumbs.php:668
+#: framework/includes/breadcrumbs.php:691
+#: framework/includes/breadcrumbs.php:714
+#: framework/includes/breadcrumbs.php:976
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: framework/includes/visual-composer.php:274
+#: framework/includes/visual-composer.php:1179
+#: framework/includes/visual-composer.php:1396
+#: framework/includes/visual-composer.php:1492
+#: framework/includes/visual-composer.php:1502
+msgid "Yes"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1577
+msgid "Your cart"
+msgstr ""
+
+#: framework/includes/theme-functions.php:442
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/includes/visual-composer.php:1018
+msgid "Zoom"
+msgstr ""
+
+#: framework/includes/visual-composer.php:1021
+msgid "zoom."
+msgstr ""
